@@ -2,7 +2,7 @@
 #include<stdio.h>
 main()
 {
-	char str[100];
+	char str[50];
 	int i,alpha=0,dig=0,spchar=0,space=0;
 	printf("\n enter the string=");
 	gets(str);
