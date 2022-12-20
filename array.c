@@ -2,5 +2,6 @@
 main()
 {
 printf("\n welcome");
+printf("\n ayush"):  
 
 }
